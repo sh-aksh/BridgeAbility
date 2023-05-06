@@ -30,4 +30,5 @@ Parent Education and Training: We offer comprehensive parent education and train
 
 Scheduler : Parents can plan the days for child, log their medicine records.
 
-![10](https://user-images.githubusercontent.com/85023497/235232230-6f5211fb-7dff-4494-a1a5-1cd9060f3a59.jpg)
+![10](https://user-images.githubusercontent.com/110640624/236645890-5e1cd3e5-7f60-4afb-a5d5-4d8e592fc188.jpeg)
+
